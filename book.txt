@@ -15,11 +15,7 @@ lalalalalalalalalalalalalalalala
 lalalalalalalalalalalalalalalalalalalala
 
 
-part3
-!!!!!!!!!!!!!!!???????????????!!!!!!!!!!!!!!!!!!!!
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-part4
 yayayayayyayayayayyayayayayyayayayayyayayayayyayayay
 yayayayayyayayayayyayayayayyayayayayyayayayayyayayayay
 yayayayayyayayayayyayayayayyayayayayyayayayayyayayayay
@@ -27,4 +23,5 @@ yayayayayyayayayayyayayayayyayayayayyayayayayyayayayay
 yayayayayyayayayayyayayayayyayayayayyayayayayyayayayay
 yayayayayyayayayayyayayayayyayayayayyayayayayyayayayay
 
-
+part5
+Lorem ipsum...
